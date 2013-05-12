@@ -11,10 +11,10 @@
     follows when scrolling. Comes with a custom scrollbar,
     which is styled in scrollpath.css.
 
-    Author: Joel Besada (http://www.joelb.me)
-    Date: 2012-02-01
+    Original Author: Joel Besada (http://www.joelb.me)
+    Fork by : Yhoyhoj
+    Date: 2013-05-12
 
-    Copyright 2012, Joel Besada
     MIT Licensed (http://www.opensource.org/licenses/mit-license.php)
 */
 ( function ( $, window, document, undefined ) {
